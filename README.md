@@ -1,5 +1,7 @@
 # Intelligent_weight_scale
 
+A system of body-weight measurement.
+
 including
 - PCB
 - Schematic
